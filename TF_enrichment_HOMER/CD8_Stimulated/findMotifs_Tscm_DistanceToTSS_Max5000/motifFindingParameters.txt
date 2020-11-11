@@ -1,0 +1,1 @@
+cmd = /home/spuccio/isilon/spuccio/SP016_Project_TSEM/HomerInput/Analysis25_02_2020/TscmPromoterPeaksStim.fasta human /home/spuccio/isilon/spuccio/SP016_Project_TSEM/HomerInput/Analysis_10112020/findMotifs_Tscm5000/ -p 20 -mis 1 -len 6,7,8,9,10,11,12 -fasta /home/spuccio/isilon/spuccio/SP016_Project_TSEM/HomerInput/Analysis25_02_2020/TsemPromoterPeaksStim.fasta -mset vertebrates
